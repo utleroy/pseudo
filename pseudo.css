@@ -1,0 +1,18 @@
+body {
+
+}
+
+ul.top {
+  list-style-type: none;
+  display: inline;
+}
+
+span.inline {
+  display: block;
+  border: 1px solid black;
+  margin: 25px;
+}
+
+article.n-child section:nth-child(even) {
+  border: 1px solid black;
+}
